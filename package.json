@@ -1,0 +1,28 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "compare and return results",
+  "main": "..app/library.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/dataType.git"
+  },
+  "keywords": [
+    "compare"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/dataType/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/dataType#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
